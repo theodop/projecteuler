@@ -3,3 +3,8 @@
 ################################################################################
 
 /projecteuler/.vs/projecteuler/v16
+/projecteuler/bin/Debug/netcoreapp3.1
+/projecteuler/obj
+/.vs
+/tests/bin/Debug/netcoreapp3.1
+/tests/obj
